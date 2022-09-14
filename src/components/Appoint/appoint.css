@@ -1,0 +1,76 @@
+
+  .appoint_btn{
+    margin: 1rem;
+    border: none !important;
+    
+    width: 10rem;
+    position: relative;
+    top: 10rem;
+    left:52rem;
+  }
+  .appoint_btn1{
+    margin: 1rem;
+    border: none !important;
+    
+    width: 10rem;
+    position: relative;
+    top:-30rem;
+    left:52rem;
+  }
+  .get_h{
+    color: #553d67;
+    font-family: "Montserrat",sans-serif;
+    margin-left:30rem;
+    
+}
+  .form-floating{
+    margin-top: 7rem;
+    margin-left: 50rem;
+    width: 30rem;
+  }
+  .appoint_img1{
+    position: absolute;
+    height: 30rem;
+  }
+  .appoint_img2{
+    position: absolute;
+    height: 30rem;
+    top:4rem;
+    left:8rem
+  }
+  .appoint_img3{
+    position:absolute;
+
+  }
+  .appoint_img4{
+    position:absolute;
+    left:40rem;
+    top: 10rem;
+    height: 30rem;
+
+  }
+ .or{
+   margin-left:65rem;
+   margin-top: 2rem 
+ }
+ .appoint_inp{
+   margin-left: 50rem;
+   width: 30rem;
+   height:3rem;
+   border-radius: 5px;
+ }
+ .appoint_label{
+   margin-left: 50rem;
+ }
+ 
+ .doctors_card li {
+   margin-bottom:1rem;
+   list-style: square;
+   color: white;
+   
+ }
+ .app_h{
+  color: #553d67;
+  font-family: "Montserrat",sans-serif;
+  margin-left:22rem;
+ }

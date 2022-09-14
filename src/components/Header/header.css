@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+header{
+    background-color:#242582;
+    height:40rem;
+    display: flex;
+    
+}
+.links  {
+    font-size: 1rem;
+    position:relative;
+    color: white;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif;
+    margin-left: 0.5rem;
+    margin-top: 2.5rem;
+    
+    margin-right: 2rem;
+    
+   
+}
+.logo{
+  
+    height:7rem;
+    margin: auto;
+    margin-top: 0rem;
+    margin-left: 5rem;
+}
+.main_img{
+    height: 20rem;
+    top: 10rem;
+    left: 15%;
+    position: absolute;
+}
+.search{
+    border-radius: 1.5rem;
+    height: 3rem;
+    width: 20rem;
+    top: 1rem;
+    margin-top: 5rem ;
+    margin-right:5rem ;
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+.getStarted{
+  font-size: 2rem;
+  position:relative;
+  color: white;
+  text-decoration: none;
+  font-family:'Montserrat', sans-serif;
+  margin-left: 0.5rem;
+  margin-top: 2.5rem;
+  
+  margin-right: 2rem;
+  
+}
+.search_btn{
+    width: 5rem  !important;
+    background-color:#f64c72 !important;
+    color: white;
+    font-size: 1.5rem;
+}
+.title{
+    position:absolute;
+    top:11rem;
+    color: white;
+    left:45rem;
+    font-size: 3.5rem;
+    font-family:'Montserrat', sans-serif;
+    line-height: 5rem;
+    
+}
+.btn-primary{
+    background-color: #f64c72 !important;
+    font-family: 'Montserrat', sans-serif !important; 
+    font-weight: light !important;
+    
+}
+.started {
+  
+    position: absolute;
+    top: 70%;
+    left:62%;
+    font-size: 1.5rem;
+    border-radius: 4px;
+    width: 20rem !important;
+    border: none;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    outline: none;
+    border: none;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    transition: .1s;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+  }
+  
+  .started span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .started span:after {
+    content: " >";
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 180px;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .started:hover span {
+    padding-right: 25px;
+  }
+  
+  .started:hover span:after {
+    opacity: 1;
+    right: 0;
+  }

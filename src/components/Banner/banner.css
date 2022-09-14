@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+.carousel{
+    margin:1rem ;
+}
+.review_head{
+    font-family: "Montserrat",sans-serif;
+    color: #553d67;
+    font-size: 3rem;;
+}
+
+.carousel-item{
+    margin-top: 5rem;
+    
+
+}
+.p_pic{
+    max-width: 6rem;
+    border-radius: 100%;
+    margin-bottom: 10rem;
+    justify-content: center;
+
+    
+}

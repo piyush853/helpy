@@ -1,0 +1,29 @@
+.doctor_card{
+    margin-left: 5rem;
+    width: 30rem !important;
+    height: 12rem !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem !important;
+    
+}
+.card_click{
+    margin-left: 10rem;
+    width: 30rem !important;
+    height: 12rem;
+    border-color: #f64c72;
+}
+.disable-div {
+    pointer-events: none;
+}
+.card-body{
+    width: 20rem;
+    font-size: 0.7rem !important;
+    color: black;
+    margin-left: 8rem;
+    margin-top: -10rem;
+}
+
+.card-img{
+   width:2rem;
+   height: -10rem;
+}

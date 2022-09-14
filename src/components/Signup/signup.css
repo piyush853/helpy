@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+.home_btn{
+    color: #242582 ;
+    font-family:'Montserrat', sans-serif;;
+    text-decoration: none;
+    font-size: large;
+
+}
+  
+  .divider:after,
+  .divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+  }
+  .h-custom {
+    height: calc(100% - 73px);
+  }
+  @media (max-width: 450px) {
+    .h-custom {
+    height: 90%;
+    }
+  }

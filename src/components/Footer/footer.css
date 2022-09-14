@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+footer{
+    background-color:#242582;
+    height:25rem;
+    display: grid;
+    
+}
+.newslttr_title{
+    margin-top: 10rem !important;
+    margin-left: -6rem
+}
+.newslttr_card{
+    position:absolute !important;
+    
+    margin-left: 25%!important;
+    width: 30rem;
+    margin-bottom: 10rem;
+    
+}
+.newslttr_text{
+    
+    margin-left: -8rem;
+    font-size: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.newsletter_inp{
+    border-radius:3%;
+    outline: none;
+    border-color:#f64c72;
+    text-indent: 0.5rem;
+    width: 25rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    
+}
+.cr{
+    margin-top: 23rem;
+    margin-left: 43%;
+    position: absolute;
+
+    color: rgba(255, 255, 255, 0.452);
+}
+.newsletter_btn{
+    width: 10rem  !important;
+    background-color:#f64c72 !important;
+    color: white !important;
+}
+.social_ico{
+    font-size: 2rem;
+    position:relative;
+    
+  
+    margin-left: 1rem;
+    top: 17rem;
+    color: white;
+    
+   
+}
+.newslttr_hr{
+    margin-left: -7.5rem;
+}

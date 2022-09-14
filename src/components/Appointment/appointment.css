@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+  .appointment{
+    background-color: #242582;
+    margin-top: 10rem;
+    display: flex;
+  }
+  .ap_head{
+   font-size: 3rem;
+   margin-top:1rem;
+   left: 39%;
+   position:absolute;
+   color: white;
+   font-family:'Montserrat', sans-serif;
+  }
+  .hr_start{
+    position:absolute;
+    width: 20rem;
+    margin-top:5rem;
+    left: 38%;
+    border-color: white;
+    
+
+    
+  }
+  .apoint_logo{
+    margin: auto;
+    margin-top:7rem;
+    font-size:10rem;
+    color: white;
+    
+  }
+  .b2{
+    height: 5rem;
+    font-size: 1.5rem;
+  }
+ 
+  .ap1{
+    
+    margin-top: 1rem;
+    position: relative;
+    display:grid;
+    margin: auto;
+    margin-bottom: 10rem;
+    
+   
+  }
