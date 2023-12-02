@@ -1,6 +1,9 @@
 {
   "name": "helpy",
   "version": "0.1.0",
+  "engines":{
+    "node": "16.5.0"
+  },
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.15.0",
